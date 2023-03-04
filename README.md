@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🙋🏽‍♀️, I'm Melike Yoğurtcu</h1>
 <h3 align="center">I am a Computer Engineering student at Bursa Technical University 💻</h3>
 
-- 📫 How to reach me **melikeyogurtcu@hotmail.com**
+- 📫 How to reach me 👉🏼 **melikeyogurtcu@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
