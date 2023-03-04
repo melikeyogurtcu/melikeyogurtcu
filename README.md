@@ -1,9 +1,7 @@
 <h1 align="center">Hi 🙋🏽‍♀️, I'm Melike Yoğurtcu</h1>
 <h3 align="center">I am a Computer Engineering student at Bursa Technical University 💻</h3>
 
-- 📫 How to reach me **melikeyogurtcu@hotmail.com**
+- 📫 How to reach me 
+- Email: **melikeyogurtcu@hotmail.com**
+- Linkedin: **https://www.linkedin.com/in/melike-yoğurtcu-13062720b![image](https://user-images.githubusercontent.com/44230880/222926091-93d3cdb2-1098-4678-ada4-df3777a499cb.png)**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/melikeyogurtcu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melikeyogurtcu" height="30" width="40" /></a>
-</p>
