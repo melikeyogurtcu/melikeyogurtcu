@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🙋🏽‍♀️, I'm Melike Yoğurtcu</h1>
-<h3 align="start">I'm a Computer Engineer 💻</h3>
+<h3 align="start">I'm a computer engineer 💻</h3>
 <h3 align="start">I'm currently working on mobile application development 📱 </h3>
 
 - 📫 How to reach me❓👇🏼
